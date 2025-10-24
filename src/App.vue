@@ -14,6 +14,7 @@
       <!-- This is where the current route component will render -->
       <router-view />
     </main>
+     <UButton label="Button" />
   </div>
 </template>
 
